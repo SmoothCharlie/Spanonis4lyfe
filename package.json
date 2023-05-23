@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eris": "^0.17.1"
+  },
+  "name": "Spanoni4lyfe",
+  "version": "1.0.0",
+  "description": "Spanoni4lyfe",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm i && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmoothCharlie/Spanonis4lyfe.git"
+  },
+  "author": "SmoothCharlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmoothCharlie/Spanonis4lyfe/issues"
+  },
+  "homepage": "https://github.com/SmoothCharlie/Spanonis4lyfe#readme"
+}
